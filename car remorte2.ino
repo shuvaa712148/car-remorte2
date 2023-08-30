@@ -4,7 +4,7 @@
 #define in4 11
 #define LED 13
 char command;    // Int to store app command state.
-int Speed = 150; // 0 - 255.
+int Speed = 100; // 0 - 255.
 int Speedsec;
 int buttonState = 0;
 int lastButtonState = 0;
